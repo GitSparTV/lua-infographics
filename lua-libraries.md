@@ -20,14 +20,14 @@ Total size: 2875 libraries. Duplcates from different sources were merged.
 
 ![Position of "Lua" word in the name](lualibs_luapos.png?raw=true "Position of Lua word in the name")
 
-# Library's dependences
+# Library's dependencies
 
 Used dataset:
   - [LuaRocks](https://luarocks.org/)
   
 Total size: 2335 libraries.
 
-![Library's dependences](lualibs_deps.png?raw=true "Library's dependences")
+![Library's dependencies](lualibs_deps.png?raw=true "Library's dependencies")
 
 # Library's pureness
 

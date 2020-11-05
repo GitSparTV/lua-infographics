@@ -7,8 +7,8 @@ Used dataset: Google Trends. `Lua (programming language)`, Worldwide, 2004-2020.
 ![Google Search Trends](luapopularity_google.png?raw=true "Google Search Trends")
 
 #### Conclusion:
-  - Mailing list popularity doesn't correlate with outside interest.
-  - Lua had the highest interest at the time of Lua 5.1.2 release.
+  - Mailing list activity doesn't correlate with outside interest.
+  - Lua had the highest interest at the time of Lua 5.1.2 release. 
   - Outside populatiry increases for few month when Lua has major release.
   
 ## Mailing List
@@ -27,6 +27,11 @@ Used dataset: lua-l mailing list traffic statstics.
 ### Lua Authors Activity
 
 ![Lua Authors Activity](luapopularity_authors.png?raw=true "Lua Authors Activity")
+
+#### Total emails:
+  - Roberto Ierusalimschy: 5611 messages
+  - Luiz Henrique de Figueiredo: 6575 messages
+  - Waldemar Celes: 100 messages
 
 #### Conclusion:
   If you thought there was only Roberto left in Lua team, it's not true.

@@ -7,3 +7,5 @@ Used script:
 
 Benchmark uses standard library function `os.clock`.
 For Lua versions where `os.clock` (or `clock`) wasn't implemented yet, [recorder script](benchmark_recorder.lua) was used.
+
+![Lua Versions Benchmarks](luabenchmark_vmfib.png?raw=true "Lua Versions Benchmarks")

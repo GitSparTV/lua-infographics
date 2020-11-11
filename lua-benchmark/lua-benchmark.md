@@ -8,7 +8,7 @@ Used script:
 - [For Lua 1.0 and 1.1](benchmark_1_0.lua)
 - [For Lua 2.1 and above](benchmark.lua)
 
-Benchmark uses standard library function `os.clock`.
+Benchmark uses standard library function `os.clock` the result of the benchmark is a median value of multiple runs.
 
 For Lua versions where `os.clock` (or `clock`) wasn't implemented yet, [recorder script](benchmark_recorder.lua) was used.
 

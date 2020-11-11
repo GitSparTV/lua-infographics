@@ -1,5 +1,5 @@
 # Lua Versions Benchmarks
-This infographic measures the speed of the same script on each Lua version run on Lua's virtual machine.
+This infographic measures the speed of Lua's virtual machine with the same script on each Lua version.
 
 The script calls recursive Fibonacci function with number 16 100000 times.
 

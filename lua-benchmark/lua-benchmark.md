@@ -28,5 +28,5 @@ Conclusion:
 
 ![Lua Versions Benchmarks](luabenchmark_compiletime.png?raw=true "Lua Versions Benchmarks")
 
-Conclusion:
+### Conclusion:
  - Compiling time is pretty much stable for the entire Lua development. 

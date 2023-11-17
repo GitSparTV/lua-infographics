@@ -1,12 +1,6 @@
 # Lua Infographics
 Infographics about Lua.
 
----
-
-__[<img src="https://raw.githubusercontent.com/GitSparTV/GitSparTV/main/saythanks.svg" width="300">](https://gitspartv.github.io/GitSparTV/saythanks.html)__
-
----
-
 - [Lua Libraries](lua-libraries/lua-libraries.md)
   - [First letter in the name](lua-libraries/lua-libraries.md#first-letter-in-the-name)
   - ["Lua" word in the name](lua-libraries/lua-libraries.md#lua-word-in-the-name)
